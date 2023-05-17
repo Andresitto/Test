@@ -1,5 +1,5 @@
 # Переходим в директорию репозитория
-cd C:\Users\MRX\GIT\Test
+cd C:/Users/MRX/GIT/Test
 
 # Создаем файл file.txt или перезаписываем его содержимое
 echo "скрипт не работает" > file.txt
