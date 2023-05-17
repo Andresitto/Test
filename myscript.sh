@@ -1,10 +1,5 @@
-#!/bin/bash
-
-# Добавляем файл в индекс
-git add file.txt
-
-# Создаем коммит
-git commit -m "Добавлен файл file.txt"
+# Переходим в директорию репозитория
+cd /path/to/your/repository
 
 # Создаем файл file.txt или перезаписываем его содержимое
 echo "скрипт не работает" > file.txt
@@ -17,7 +12,6 @@ git add file.txt
 
 # Создаем коммит
 git commit -m "Добавлен файл file.txt"
-
 
 # Изменяем содержимое файла
 echo "скрипт работает" > file.txt
