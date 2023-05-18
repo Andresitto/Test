@@ -40,7 +40,7 @@ git pull origin main
 cat file.txt
 
 # сохраняем в докальном репозитории
-git push
+
 
 # Проверяем статус репозитория
 git status
