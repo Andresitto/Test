@@ -39,6 +39,9 @@ git pull origin main
 # Выводим содержимое файла
 cat file.txt
 
+# сохраняем в докальном репозитории
+git push
+
 # Проверяем статус репозитория
 git status
 
