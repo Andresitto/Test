@@ -1,7 +1,7 @@
 # Переходим в директорию репозитория
 echo "Начало скрипта"
 
-cd C:/Users/MRX/GIT/Test
+cd C:\Users\MRX\GIT\Test
 
 # Создаем файл file.txt или перезаписываем его содержимое
 echo "скрипт не работает" > file.txt
